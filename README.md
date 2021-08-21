@@ -16,17 +16,17 @@ This site is not complete.
 
 [Canvas](canvas.md)
 
-[Config](config.md)
+Config
 
-[Facts](facts.md)
+Facts
 
-[Fun](fun.md)
+Fun
 
-[Text](text.md)
+Text
 
-[Other](other.md)
+Other
 
-[Hypixel](hypixel.md) 
+Hypixel 
 
-[Pictures](pictures.md)
+Pictures
 

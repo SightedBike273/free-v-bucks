@@ -1,4 +1,3 @@
 # Hypixel
 
 Coming Soon!
-
