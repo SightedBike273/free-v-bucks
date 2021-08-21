@@ -45,6 +45,36 @@ Example
 
 ## Brightness
 
+
+
+{% tabs %}
+{% tab title="User Profile Picture" %}
+```text
+g!brightness @user
+```
+{% endtab %}
+
+{% tab title="Image In Channel" %}
+```text
+g!brightness
+```
+
+* This will use the last image in the channel
+{% endtab %}
+
+{% tab title="Upload Image" %}
+```text
+g!brightness
+```
+
+Add g!brightness "as a comment" when uploading the image
+{% endtab %}
+
+{% tab title="Example" %}
+![](.gitbook/assets/image%20%286%29.png)
+{% endtab %}
+{% endtabs %}
+
 ## Pet
 
 ## Circle
