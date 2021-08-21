@@ -1,8 +1,4 @@
 # Config
 
-{% hint style="warning" %}
-This page is not complete
-{% endhint %}
-
-
+soon
 
