@@ -9,7 +9,7 @@ description: Configure goPBot to work for you!
 ## Chat
 
 ```text
-g!chat <#channel>
+g!chat #channel
 ```
 
 {% hint style="danger" %}
@@ -19,7 +19,7 @@ The AI chat function is disabled due to errors with our provider.
 ## Prefix
 
 ```text
-g!prefix <Prefix>
+g!prefix Prefix
 ```
 
 {% hint style="warning" %}
