@@ -6,9 +6,7 @@ description: Get all of the knowledge!
 
 ## goPBot
 
-
-
-goPBot Classic
+## goPBot Classic
 
 {% hint style="info" %}
 goPBot Classic documentation is coming soon
