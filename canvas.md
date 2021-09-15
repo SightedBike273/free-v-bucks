@@ -37,7 +37,7 @@ Example
 {% endtab %}
 
 {% tab title="Example" %}
-![Example](.gitbook/assets/image%20%284%29.png)
+![Example](.gitbook/assets/image%20%285%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
