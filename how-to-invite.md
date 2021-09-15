@@ -4,22 +4,15 @@
 
 Adding goPBot to your server is a simple and easy process:
 
-```
-$ give me super-powers
-```
+1\) Go to [invite.gopbot.xyz](https://invite.gopbot.xyz)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+2\) Select your server and press continue 
+
+3\) Press "Authorise"
+
+{% hint style="success" %}
+4\) You're done! Enjoy goPBot!
 {% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
