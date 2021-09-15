@@ -18,13 +18,13 @@ goPBot has changed and now this information is outdated
 This site is not complete.
 {% endhint %}
 
-[Canvas](canvas.md)
+[Canvas]()
 
-[Config](config.md)
+[Config]()
 
-[Facts](facts.md)
+[Facts]()
 
-[Fun](fun.md)
+[Fun]()
 
 [Text](text.md)
 
