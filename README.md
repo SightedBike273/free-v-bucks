@@ -4,29 +4,19 @@ description: Get all of the knowledge!
 
 # goPBot Docs
 
-## Choose A Category
+## goPBot
 
-{% hint style="success" %}
-[Main Website: https://gopbot.xyz](https://gopbot.xyz#)
+How to invite
+
+How to use slash commands
+
+## goPBot Classic
+
+How to use canvas
+
+{% hint style="info" %}
+goPBot Classic documentation is coming soon
 {% endhint %}
 
-{% hint style="warning" %}
-This site is not complete.
-{% endhint %}
-
-[Canvas](canvas.md)
-
-Config
-
-Facts
-
-Fun
-
-Text
-
-Other
-
-Hypixel 
-
-Pictures
+## 
 

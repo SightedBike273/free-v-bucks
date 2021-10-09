@@ -1,12 +1,11 @@
 # Table of contents
 
 * [goPBot Docs](README.md)
-* [Canvas](canvas.md)
-* [Config](config.md)
-* [Facts](facts.md)
-* [Fun](fun.md)
-* [Text](text.md)
-* [Other](other.md)
-* [Hypixel](hypixel.md)
-* [Pictures](pictures.md)
+* [How to invite](how-to-invite.md)
+* [Hypixel Slash Commands](hypixel-slash-commands.md)
+* [Other Slash Commands](other-slash-commands.md)
+
+## Classic
+
+* [Classic Docs Homepage](classic/classic-docs-homepage.md)
 
