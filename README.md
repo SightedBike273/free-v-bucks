@@ -6,7 +6,7 @@ description: Get all of the knowledge!
 
 ## goPBot
 
-How to invite
+[How to invite](how-to-invite.md)
 
 How to use slash commands
 
@@ -18,5 +18,4 @@ How to use canvas
 goPBot Classic documentation is coming soon
 {% endhint %}
 
-## 
-
+##
