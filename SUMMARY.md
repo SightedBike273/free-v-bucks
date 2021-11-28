@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Other Slash Commands](README.md)
-* [goPBot Docs](master/README.md)
-  * [How to invite](master/how-to-invite.md)
-  * [How To Use goPBot Slash Commands](master/how-to-use-gopbot-slash-commands/README.md)
-    * [Hypixel Slash Commands](master/how-to-use-gopbot-slash-commands/hypixel-slash-commands.md)
+* [goPBot Docs](README.md)
+* [How to invite](how-to-invite.md)
+* [How To Use goPBot Slash Commands](how-to-use-gopbot-slash-commands/README.md)
+  * [Hypixel Slash Commands](how-to-use-gopbot-slash-commands/hypixel-slash-commands.md)
+  * [Other Slash Commands](how-to-use-gopbot-slash-commands/other-slash-commands.md)
 
 ## Classic
 
