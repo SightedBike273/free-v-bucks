@@ -5,3 +5,4 @@
 * [How To Use goPBot Slash Commands](how-to-use-gopbot-slash-commands/README.md)
   * [Slash Commands](how-to-use-gopbot-slash-commands/slash-commands.md)
   * [Hypixel Slash Commands](how-to-use-gopbot-slash-commands/hypixel-slash-commands.md)
+* [Suggest Something / Report A Bug](suggest-something-report-a-bug.md)
