@@ -1,13 +1,8 @@
-# Slash Commands
+---
+description: Lookup your hypixel stats!
+---
 
-Start by going to any server with goPBot where goPBot is invited.
+# Hypixel Slash Commands
 
-{% hint style="info" %}
-Is goPBot not invited? [Click here to find out how to invite goPBot](../how-to-invite.md)
-{% endhint %}
+Here is a list of all Hypixel Slash Commands
 
-Then press the slash (/) key on your keyboard
-
-Click on the goPBot logo at the side (desktop) or bottom (moblie)&#x20;
-
-Choose your command and run it!
