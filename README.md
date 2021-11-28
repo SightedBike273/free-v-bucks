@@ -8,14 +8,4 @@ description: Get all of the knowledge!
 
 [How to invite](how-to-invite.md)
 
-How to use slash commands
-
-## goPBot Classic
-
-How to use canvas
-
-{% hint style="info" %}
-goPBot Classic documentation is coming soon
-{% endhint %}
-
-##
+[How to use slash commands](how-to-use-gopbot-slash-commands/)
