@@ -3,7 +3,7 @@
 Start by going to any server with goPBot where goPBot is invited.
 
 {% hint style="info" %}
-Is goPBot not invited? [Click here to find out how to invite goPBot](../how-to-invite.md)
+Is goPBot not invited? [Click here to find out how to invite goPBot](../../how-to-invite.md)
 {% endhint %}
 
 Then press the slash (/) key on your keyboard
