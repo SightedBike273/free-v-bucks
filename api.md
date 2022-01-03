@@ -13,6 +13,8 @@ The base URL for our API is [`api.gopbot.xyz`](https://api.gopbot.xyz)``
 Example get request in JavaScript (Using node-fetch)
 
 ```
+// Request data from the goPAPI in js using node-fetch
+// don't forget to require and install node fetch https://www.npmjs.com/package/node-fetch
 fetch('https://api.gopbot.xyz/player?username=SightedBike273')
     .then(res => res.text())
     .then(text => console.log(text));
