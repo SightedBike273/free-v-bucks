@@ -7,3 +7,4 @@
     * [A list of all commands](how-to-use-gopbot-slash-commands/slash-commands/a-list-of-all-commands.md)
   * [Hypixel Slash Commands](how-to-use-gopbot-slash-commands/hypixel-slash-commands.md)
 * [Suggest Something / Report A Bug](suggest-something-report-a-bug.md)
+* [Page 1](page-1.md)
