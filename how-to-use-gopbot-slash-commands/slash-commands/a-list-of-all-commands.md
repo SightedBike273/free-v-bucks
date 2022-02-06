@@ -47,7 +47,7 @@ Replace {username} with your username
 * /skywars {username} - Lookup skywars stats
 * /soccer {username} - Lookup soccer (football) stats
 * /tkr {username} - Look up tkr stats
-* /walls - \<username> Look up Walls stats
+* /walls \<username> - Look up Walls stats
 * /zombies {username} - Lookup zombies stats
 
 ### Other Commands
