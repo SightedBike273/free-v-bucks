@@ -12,4 +12,4 @@ description: Get all of the knowledge!
 
 ## goPAPI
 
-[How use](api.md)
+[How to use](api.md)
