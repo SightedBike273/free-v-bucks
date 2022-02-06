@@ -15,7 +15,7 @@ Example get request in JavaScript (Using node-fetch)
 ```
 // Request data from the goPAPI in javascript using node-fetch
 // don't forget to require and install node fetch https://www.npmjs.com/package/node-fetch
-fetch('https://api.gopbot.xyz/player?username=SightedBike273')
+fetch('https://api.gopbot.xyz/player?username=example_change_me')
     .then(res => res.text())
     .then(text => console.log(text));
 ```
