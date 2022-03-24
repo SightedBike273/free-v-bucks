@@ -3,6 +3,7 @@ description: goPAPI
 ---
 
 # API
+### THE API IS CURRENTLY DOWN NONE OF THIS WILL WORK FOR NOW
 
 Welcome to the docs for goPAPI!
 
