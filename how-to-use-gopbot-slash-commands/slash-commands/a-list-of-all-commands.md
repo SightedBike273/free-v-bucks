@@ -42,6 +42,3 @@ Replace {username} with your username
 
 * /fetchur - Check what the fetchur wants today
 
-### Other Commands
-
-* /apple - Get a picture of an apple
