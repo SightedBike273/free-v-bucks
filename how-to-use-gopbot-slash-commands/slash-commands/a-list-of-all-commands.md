@@ -1,17 +1,5 @@
 # A list of all commands
 
-### Animal Commands
-
-* /bird - Get a picture of a bird
-* /cat - Get a picture of a cat
-* /dog - Get a picture of a dog
-* /fox - Get a picture of a fox
-* /kangaroo - Get a picture of a kangaroo
-* /koala - Get a picture of a koala
-* /monkey - Get a picture of a moneky
-* /panda - Get a picture of a panda
-* /raccoon - Get a picture of a raccoon
-* /whale - Get a picture of a whale
 
 ### Information Commands
 
