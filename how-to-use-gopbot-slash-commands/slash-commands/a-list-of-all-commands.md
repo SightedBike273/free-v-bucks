@@ -38,6 +38,10 @@ Replace {username} with your username
 * /walls \<username> - Look up Walls stats
 * /zombies {username} - Lookup zombies stats
 
+### Hypixel SKYBLOCK Commands
+
+* /fetchur - Check what the fetchur wants today
+
 ### Other Commands
 
 * /apple - Get a picture of an apple
