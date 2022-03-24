@@ -6,7 +6,7 @@
 * /credits - The credits of goPBot
 * /help - Links to here
 * /invite - Link to invite goPBot
-* /stats - goPBot stats (Guild count, uptime, ram)
+* /gopbot-info - goPBot stats (Guild count, uptime, ram)
 
 ### Hypixel Commands
 
